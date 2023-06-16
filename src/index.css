@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+#root, html, body{ 
+    height: 100vh;
+}
+body{
+    margin:0;
+    background-color: whitesmoke;
+    text-color: black;
+
+}
+* {
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+} */
